@@ -24,3 +24,5 @@ libarcsoft_turbo_fusion_raw_portrait_super_night.so 64
 libarcsoft_facialrestoration.so 64
 libalCFR.so
 libmouth_mask_detection.arcsoft.so 64
+libarcsoft_ai_moon.so 64
+libnoteengine.so 64
