@@ -4,3 +4,6 @@ proprietary/vendor/lib64/libarcsoft_t_hdr_raw_front.so filter=lfs diff=lfs merge
 proprietary/vendor/lib64/libarcsoft_turbo_fusion_raw_portrait_super_night.so filter=lfs diff=lfs merge=lfs -text
 proprietary/vendor/lib64/libarcsoft_turbo_fusion_raw_super_night.so filter=lfs diff=lfs merge=lfs -text
 proprietary/vendor/lib64/libmorpho_RawDeepDenoise.so filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib64/libhyperzoom.arcsoft.so filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib64/libstfaceunlockppl.so filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib/rfsa/adsp/libvpt_action_recognition.so filter=lfs diff=lfs merge=lfs -text
