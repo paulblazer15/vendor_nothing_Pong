@@ -24,6 +24,7 @@ writev: 1
 sendto: 1
 mmap: arg2 in ~PROT_EXEC || arg2 in ~PROT_WRITE
 read: 1
+lseek: 1
 mprotect: arg2 in ~PROT_EXEC || arg2 in ~PROT_WRITE
 munmap: 1
 #prctl: arg0 == PR_SET_VMA || arg0 == PR_GET_DUMPABLE || arg0 == 0x37
